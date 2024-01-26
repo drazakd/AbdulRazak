@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: developer were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/abdulrazak
+Data file = C:\wamp64\www\abdulrazak/wp-content/uploads/2024/01/demo-content-import-file_2024-01-19__11-05-07.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---ocdi/after_import---
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ce plan de site a été généré dynamiquement le 26 janvier 2024 à 11h10 par All in One SEO v4.5.4 - l’extension SEO originale pour WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://drazakd.github.io/abdulrazak/default-sitemap.xsl?sitemap=portfolio"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio-archive/oyyi-furniture-app/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:25:15+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://drazakd.github.io/abdulrazak/wp-includes/images/media/text.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio-archive/sounds-web-app/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:23:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://drazakd.github.io/abdulrazak/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-08-a-22.16.56_32547143.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio-archive/unicode-web-app/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:20:01+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://drazakd.github.io/abdulrazak/wp-content/uploads/2024/01/Optimal-Medical.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio-archive/sushi-parlour-app/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:15:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[https://drazakd.github.io/abdulrazak/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-08-a-09.25.57_2e1be990.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio-archive/weather-mobile-app/]]></loc>
+		<lastmod><![CDATA[2024-01-19T16:54:30+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>

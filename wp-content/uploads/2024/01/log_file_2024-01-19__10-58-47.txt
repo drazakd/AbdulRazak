@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: developer were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/abdulrazak
+Data file = C:\wamp64\www\abdulrazak/wp-content/uploads/2024/01/demo-content-import-file_2024-01-19__10-58-47.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "bg" (Fichier média)
+[ERROR] Failed to import "blog1" (Fichier média)
+[ERROR] Failed to import "blog2" (Fichier média)
+[ERROR] Failed to import "blog3" (Fichier média)
+[ERROR] Failed to import "rlogo3" (Fichier média)
+[ERROR] Failed to import "dev-bg" (Fichier média)
+[ERROR] Failed to import "avatar" (Fichier média)
+[ERROR] Failed to import "brand3_d" (Fichier média)
+[ERROR] Failed to import "brand3_w" (Fichier média)
+[ERROR] Failed to import "brand3" (Fichier média)
+[ERROR] Failed to import "brand2_d" (Fichier média)
+[ERROR] Failed to import "brand1_d" (Fichier média)
+[ERROR] Failed to import "brand2_w" (Fichier média)
+[ERROR] Failed to import "brand1_w" (Fichier média)
+[ERROR] Failed to import "avatar2" (Fichier média)
+[ERROR] Failed to import "testi2" (Fichier média)
+[ERROR] Failed to import "testi1" (Fichier média)
+[ERROR] Failed to import "dev-bg-3" (Fichier média)
+[ERROR] Failed to import "dev-bg-4" (Fichier média)
+[ERROR] Failed to import "Dublin-Resume-Template-Modern" (Fichier média)
+[ERROR] Failed to import "work1" (Fichier média)
+[ERROR] Failed to import "work-single4" (Fichier média)
+[ERROR] Failed to import "work-single3" (Fichier média)
+[ERROR] Failed to import "work-single2" (Fichier média)
+[ERROR] Failed to import "work-single1" (Fichier média)
+[ERROR] Failed to import "work2" (Fichier média)
+[ERROR] Failed to import "work3" (Fichier média)
+[ERROR] Failed to import "work-single5" (Fichier média)
+[ERROR] Failed to import "work-single6" (Fichier média)
+[ERROR] Failed to import "work4" (Fichier média)
+[ERROR] Failed to import "work5" (Fichier média)
+
+
+---ocdi/after_import---
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ce plan de site a été généré dynamiquement le 26 janvier 2024 à 11h10 par All in One SEO v4.5.4 - l’extension SEO originale pour WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://drazakd.github.io/abdulrazak/default-sitemap.xsl?sitemap=portfolio_categories"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio_categories/content/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:25:15+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio_categories/gallery/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:15:16+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://drazakd.github.io/abdulrazak/portfolio_categories/link/]]></loc>
+		<lastmod><![CDATA[2024-01-19T17:15:16+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>
